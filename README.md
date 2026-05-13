@@ -60,11 +60,6 @@ npm install
 cp .env.example .env.local  # Add your backend URL
 npm run dev
 
-Environment Variables
-envGEMINI_API_KEY=your_key
-TAVILY_API_KEY=your_key
-DATABASE_URL=postgresql://...
-CHROMA_PERSIST_DIR=./chroma_db
 
 Author
 Rahul Mishra — LinkedIn · GitHub
